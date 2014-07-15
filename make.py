@@ -1,0 +1,1 @@
+print "Synth Build Tool"
